@@ -41,10 +41,10 @@
 		<Reference Include="AmplifyShaderEditor.Samples.BuiltIn">
 			<HintPath>..\external_dlls\AmplifyShaderEditor.Samples.BuiltIn.dll</HintPath>
 		</Reference>
-		<Reference Include="Assembly-CSharp">
+		<Reference Include="Assembly-CSharp" Publicize="true">
 			<HintPath>..\external_dlls\Assembly-CSharp.dll</HintPath>
 		</Reference>
-		<Reference Include="Assembly-CSharp-firstpass">
+		<Reference Include="Assembly-CSharp-firstpass" Publicize="true">
 			<HintPath>..\external_dlls\Assembly-CSharp-firstpass.dll</HintPath>
 		</Reference>
 		<Reference Include="Backtrace.Unity">
